@@ -1,4 +1,4 @@
-<p align='center'><h1 >Hey Bruh, I'm Murasame</h1></p>
+<h1 align='center'>Hey Bruh, I'm Murasame</h1>
 
 ---
 
