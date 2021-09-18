@@ -1,7 +1,5 @@
 <h1 align='center'>Hey Bruh, I'm Murasame</h1>
 
----
-
 <p align='center'>
 A stupid child.
 </p>
